@@ -1,3 +1,3 @@
 # banksia
 
-Swift/Kotlinのネイティブアプリ。一つのディレクトリで両方のOSをカバーする予定
+Tweet the development status of Diphylleia
